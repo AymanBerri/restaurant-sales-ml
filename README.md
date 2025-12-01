@@ -1,6 +1,6 @@
 # Restaurant Sales ML Pipeline
 
-This project demonstrates an **end-to-end machine learning workflow** to predict restaurant order totals using Python and scikit-learn.
+This project demonstrates an **end-to-end machine learning workflow** to predict restaurant order totals using Python and scikit-learn.           
 
 ## Project Overview
 
@@ -37,3 +37,40 @@ git clone https://github.com/AymanBerri/restaurant-sales-ml.git
 
 ## Notes
 The target variable `(order_total)` can technically be calculated from price × quantity, but this project demonstrates a complete ML pipeline for learning purposes.
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+˚
+
+    ☾
+                ⋆                        ⋆      ˚
+⋆                            ╱|、
+              ˚           (˚ˎ 。7  
+                           |、˜〵          
+𖥧   𖥧 𖥧  𖤣 𖥧  ๑ï𖥧  𖥧   𖤣   じしˍ,)ノ    𖥧    𖥧 𖤣   𖥧
+
+```   
